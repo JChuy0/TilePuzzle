@@ -1,4 +1,4 @@
-For starters, you can find a link to the puzzle box <a class="hover:bg-yellow-300 hover:text-slate-900 rounded" target="_blank" href="https://jchuy0.github.io/PuzzleBox/"><u>HERE.</u></a>
+For starters, you can find a link to the puzzle box <a class="hover:bg-yellow-300 hover:text-slate-900 rounded" target="_blank" href="https://jchuy0.github.io/TilePuzzle/"><u>HERE.</u></a>
 
 I was playing a mystery/puzzle game aptly called Blue Prince. A lot of these puzzles were clever and well designed, some required logic, while others involved a play on words. One in particular that caught my attention were the Mora Jai puzzle boxes. These puzzle boxes had a 3x3 grid of colored tiles with another 4 tiles around the outer row. Each colored tile performs a different action, one color moves up on the grid, while another swaps with the tile on the opposite end, and a third rotates all surrounding tiles clockwise. The goal is make the 4 outer tiles light up. I enjoyed these box puzzles, so I wanted to create a web version.
 
